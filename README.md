@@ -4,7 +4,7 @@ Welcome to the **Custom C Shell**, a Linux-like shell implemented in C. This pro
 
 ## About the Project
 
-This shell replicates core Linux terminal functionalities, offering a simple yet functional interface. A more detailed README is on its way, but for now, you can check out the [report.md](./report.md), which includes:
+This shell replicates core Linux terminal functionalities, offering a simple yet functional interface. A more detailed README is on its way, but for now, you can check out the [report.md](./Report.md), which includes:
 
 - A detailed project description.  
 - How it works, step by step.  

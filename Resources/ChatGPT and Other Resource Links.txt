@@ -1,0 +1,38 @@
+Activities Spec:
+https://chatgpt.com/share/cc934ea0-37e8-48f4-a7ed-72617b666201
+
+iMAN:
+https://chatgpt.com/share/66e34e52-e084-8003-9617-3151a6aae413
+
+Fg and Bg Testcases
+
+https://chatgpt.com/share/66e5d511-09cc-8003-8d16-23d93af45afc
+
+Neonate :
+
+https://chatgpt.com/share/66e6e8b6-cc00-8003-b009-2a5f91aaee42
+
+Other ChatGPT links:
+https://chatgpt.com/share/66e5d56a-66b0-8003-a78c-7d436f7c67d2
+
+https://chatgpt.com/share/66e5d580-8f18-8003-a674-1405af6686b9
+
+https://chatgpt.com/share/66e5d59a-7340-8003-8406-49ff3c164314
+
+https://chatgpt.com/share/66e5d5c1-9964-8003-9c9b-c2294ab433fc
+
+
+
+Stack Overflow and other resources:
+
+https://stackoverflow.com/questions/3585846/color-text-in-terminal-applications-in-unix
+
+https://stackoverflow.com/questions/47809046/strtok-with-comma-spaces-and-tab
+
+https://stackoverflow.com/questions/20999255/get-the-status-of-a-specific-pid#:~:text=pid_t%20pid%3B%20pid%20%3D%20fork()%3B,in%20your%20case.%20%7D%20%7D%20%7D
+
+https://stackoverflow.com/questions/4553012/checking-if-a-file-is-a-directory-or-just-a-file
+
+https://stackoverflow.com/questions/11987495/what-do-the-numbers-in-proc-loadavg-mean-on-linux
+
+https://stackoverflow.com/questions/13436002/how-to-call-makefile-located-in-other-directory#:~:text=1%20Answer&text=GNU%20make%20accepts%20many%20options,x%20)%20of%20Makefile%20related%20issues.
